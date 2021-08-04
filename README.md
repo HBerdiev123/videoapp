@@ -1,2 +1,2 @@
 # videoapp
-Created with CodeSandbox
+Simple app which is created with with CodeSandbox
